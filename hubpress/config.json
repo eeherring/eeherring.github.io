@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "eeherring",
-    "repositoryName": "eeherring.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"eeherring","repositoryName":"eeherring.github.io","branch":"master"},"site":{"url":"http://eeherring.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"http://eeherring.github.io/themes/Saga"}}
