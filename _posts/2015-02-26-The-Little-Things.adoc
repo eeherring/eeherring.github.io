@@ -1,7 +1,9 @@
-= #That's Life
-
+= The Little Things
+:hp-tags: #That'sLife, MH4U for The Win
+:hard breaks:
 
 So let me tell you, last semester of college, four classes, four different coding languages I have to use *one for each*, 
 four different projects too *again one for each*. 
 Add in homework, studying for quizzes , and working part-time. . . 
 Thank god I got Monster Hunter 4 Ultimate.
+Helps me forget I forgot to do my Open Source Homework.
