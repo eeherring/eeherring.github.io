@@ -1,5 +1,4 @@
 = #That's Life
-[%hardbreaks]
 So let me tell you, last semester of college, four classes, four different coding languages I have to use *one for each*, 
 four different projects too *again one for each*. 
 Add in homework, studying for quizzes , and working part-time. . . 
